@@ -1,0 +1,21 @@
+Mini-Project: Secure Banking Application
+Marks: 100
+Due date: 13/10/2026Submission Deadline: The first lab session upon your return to campus.Submission Method: GitHub Repository Link to be submitted via the E-learning platform
+The primary objective of this project is to design and implement a console-based banking application in Java that demonstrates a strong understanding of Object-Oriented Programming (OOP) principles alongside critical secure coding practices. You will be evaluated on your ability to write robust, secure, and maintainable code, not just on functionality.
+Your application must implement the following features:
+User Authentication: A login system.
+Account Management: Create a new bank account, view account balance.
+Transactions: Deposit and withdraw funds.
+Data Persistence: All data (user credentials, account details, transaction history) must be persisted to files and loaded upon application start. (No databases are required; use text files).
+What to submit
+You must create a public GitHub repository for your project. The repository name should be formatted as: SecureBankApp-[YourRegNumber].
+The repository must contain:
+All your Java source code (.java files).
+Any data files (e.g., users.txt, accounts.txt) used for persistence.
+A comprehensive README.md file (details below).
+5. The README.md File (Professional Requirements)
+A professional README is crucial. It must include the following sections:
+Project Title: Secure Banking Application
+Description: A brief 2–3-line overview of the project.
+Student Details: Your Name and Registration Number.
+Features: A bulleted list of the features you have implemented.
